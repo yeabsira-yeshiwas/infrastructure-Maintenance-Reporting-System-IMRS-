@@ -1,0 +1,2 @@
+# infrastructure-Maintenance-Reporting-System-IMRS-
+Maintenance Reporting System (MRS) is a web-based application developed for Bahir Dar Institute of Technology (BIT) to digitize infrastructure maintenance reporting. It streamlines issue submission, approval, assignment, tracking, and resolution through role-based access for students, staff, proctors, office heads, maintenance teams, and managers.
